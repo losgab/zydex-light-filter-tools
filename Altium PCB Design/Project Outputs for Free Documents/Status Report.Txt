@@ -1,0 +1,42 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:59:49 AM On 7/17/2023
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [fat.PcbDoc]
+   Generated File[fat_Copper_Signal_Top.gbr]
+   Generated File[fat_Copper_Signal_Bot.gbr]
+   Generated File[fat_Pads_Bot.gbr]
+   Generated File[fat_Pads_Top.gbr]
+   Generated File[fat_Legend_Top.gbr]
+   Generated File[fat_Legend_Bot.gbr]
+   Generated File[fat_Soldermask_Top.gbr]
+   Generated File[fat_Soldermask_Bot.gbr]
+   Generated File[fat_Paste_Top.gbr]
+   Generated File[fat_Paste_Bot.gbr]
+   Generated File[fat_Keep-out.gbr]
+   Generated File[fat_Mechanical_1.gbr]
+   Generated File[fat_Top_3D_Body.gbr]
+   Generated File[fat_Top_Courtyard.gbr]
+   Generated File[fat_Top_Assembly.gbr]
+   Generated File[fat_Mechanical_13.gbr]
+   Generated File[fat_Mechanical_15.gbr]
+   Generated File[fat_Top_Component_Center.gbr]
+   Generated File[fat_Bottom_Assembly.gbr]
+   Generated File[fat_Bottom_Courtyard.gbr]
+   Generated File[fat_Bottom_3D_Body.gbr]
+   Generated File[fat_Bottom_Component_Center.gbr]
+   Generated File[fat_Profile.gbr]
+   Generated File[fat_NPTH_Drill.gbr]
+   Generated File[fat_PTH_Drill.gbr]
+   Generated File[fat_Drawing_1.gbr]
+   Generated File[fat_Drillmap_1.gbr]
+   Generated File[fat.EXTREP]
+   Generated File[fat.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 9:59:55 AM On 7/17/2023

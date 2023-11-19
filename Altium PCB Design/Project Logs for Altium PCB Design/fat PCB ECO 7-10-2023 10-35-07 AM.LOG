@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetLED_ZERO_2 Pin=R2-2
+Removed Pin From Net: NetName=NetLED_TOGGLE_2 Pin=R3-2
+Added Pin To Net: NetName=NetLED_TOGGLE_2 Pin=R2-2
+Added Pin To Net: NetName=NetLED_ZERO_2 Pin=R3-2

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Arduino Nano NewDesignator=Nano
+Change Net Name : Old Net Name=NetArduino Nano_11 New Net Name=NetNano_11
+Change Net Name : Old Net Name=NetArduino Nano_12 New Net Name=NetNano_12
+Change Net Name : Old Net Name=NetArduino Nano_13 New Net Name=NetNano_13

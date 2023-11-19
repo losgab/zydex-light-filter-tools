@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BUTTON_SWEEP_ZERO Pin=MD?-5
+Added Pin To Net: NetName=BUTTON_POS_TOGG Pin=MD?-6
+Added Pin To Net: NetName=BUTTON_LASER_TOGG Pin=MD?-7

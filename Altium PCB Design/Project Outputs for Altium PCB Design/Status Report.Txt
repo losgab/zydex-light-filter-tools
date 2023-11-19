@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [fat.PcbDoc]
+   Generated File[fat-gerber.TXT]
+   Generated File[fat-gerber.LDP]
+   Generated File[fat-gerber.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:55:08 PM On 7/17/2023

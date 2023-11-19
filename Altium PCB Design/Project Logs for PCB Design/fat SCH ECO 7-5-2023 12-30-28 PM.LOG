@@ -1,0 +1,2 @@
+Remove Pin=SERVO-02 From Net=5V
+Remove Pin=SERVO-03 From Net=GND

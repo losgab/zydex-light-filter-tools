@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=L2-2
+Removed Pin From Net: NetName=GND Pin=LASER_1-1
+Removed Pin From Net: NetName=GND Pin=LASER_2-1
+Removed Member From Class: ClassName=fat Member=LASER_1
+Removed Member From Class: ClassName=fat Member=LASER_2
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=5V Pin=L2-2

@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: fat.PcbDoc   7/17/2023  12:55:08 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : fat-gerber.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             2         PTH        0.61inch (15.53mm)
+T2      24mil (0.6mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             12        PTH        2.26inch (57.34mm)
+T4      36mil (0.914mm)                                           Round             30        PTH        4.40inch (111.76mm)
+T5      39mil (1mm)                                               Round             6         PTH        1.24inch (31.62mm)
+T6      40mil (1.016mm)                                           Round             12        PTH        2.76inch (70.03mm)
+T7      40mil (1.02mm)                                            Round             3         PTH        0.20inch (5.08mm)
+T8      43mil (1.1mm)                                             Round             4         PTH        0.51inch (13.04mm)
+T9      118mil (3mm)                                              Round             4         PTH        4.37inch (111.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              74
+
+Total Processing Time (hh:mm:ss) : 00:00:00

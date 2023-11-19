@@ -1,0 +1,3 @@
+Remove Pin=MD?-5 From Net=BUTTON_SWEEP_ZERO
+Remove Pin=MD?-6 From Net=BUTTON_POS_TOGG
+Remove Pin=MD?-7 From Net=BUTTON_LASER_TOGG

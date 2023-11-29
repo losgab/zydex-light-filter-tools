@@ -18,7 +18,7 @@
 #define FILTER_FULL 123 // increase for overshoot
 #define FILTER_ZERO 24  // decrease for overshoot
 
-#define LASER_ON_TIME 10000
+#define LASER_ON_TIME 30000
 
 Servo servo;
 Bounce2::Button buttonSweepStart = Bounce2::Button();

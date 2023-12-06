@@ -79,21 +79,25 @@ void loop()
             servo.write(i);
             delay(5);
         }
+        delay(250);
         for (int i = 170; i >= 20; i--)
         {
             servo.write(i);
             delay(5);
         }
+        delay(250);
         for (int i = 20; i <= 170; i++)
         {
             servo.write(i);
             delay(5);
         }
+        delay(250);
         for (int i = 170; i >= 20; i--)
         {
             servo.write(i);
             delay(5);
         }
+        delay(250);
         digitalWrite(LED_FULL, HIGH);
         digitalWrite(LED_ZERO, LOW);
         servo.write(FILTER_FULL);

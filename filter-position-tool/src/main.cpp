@@ -12,9 +12,9 @@
 // #define ANGLE_MIDDLE 90
 // #define ANGLE_M -30
 
-#define ANGLE_N +340
-#define ANGLE_MIDDLE 1520
-#define ANGLE_M -340
+#define ANGLE_N 1100
+#define ANGLE_MIDDLE 1500
+#define ANGLE_M 1900
 
 #define LO_FILTER 800
 #define HI_FILTER 1830
@@ -81,10 +81,10 @@ void loop()
     {
         state = ANGLE_N;
         // servo.write(ANGLE_MIDDLE + ANGLE_N);
-        servo.writeMicroseconds(ANGLE_MIDDLE + ANGLE_N);
+        servo.writeMicroseconds(ANGLE_N);
         delay(POS_CHANGE_DELAY);
         Serial.print("POSITION ");
-        Serial.println(ANGLE_MIDDLE + ANGLE_N);
+        Serial.println(ANGLE_N);
 
         digitalWrite(LED_TOP, HIGH);
         digitalWrite(LED_MID, LOW);
@@ -106,13 +106,13 @@ void loop()
     {
         state = ANGLE_M;
         // servo.write(ANGLE_MIDDLE + ANGLE_M);
-        servo.writeMicroseconds(ANGLE_MIDDLE + ANGLE_M);
+        servo.writeMicroseconds(ANGLE_M);
         delay(POS_CHANGE_DELAY);
         digitalWrite(LED_TOP, LOW);
         digitalWrite(LED_MID, LOW);
         digitalWrite(LED_BOT, HIGH);
         Serial.print("POSITION ");
-        Serial.println(ANGLE_MIDDLE + ANGLE_M);
+        Serial.println(ANGLE_M);
     }
     delay(50);
 }

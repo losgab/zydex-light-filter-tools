@@ -3,7 +3,7 @@
 ## Asiga Internal Alignment & Calibration Tool
 - Developed quality control & production tooling for light engine assembly precision
 - Supports printer production with small customised handheld electronic tools for standardised, repeated methods
-- Designed a multi-purpose reprogrammable platform based on Arduino Nano microcontroller
+- Designed a multi-purpose reprogrammable platform based on Arduino Nano MCU
 - Designed custom PCBs using Altium Designer
 
 ## Functionality & Requirements
